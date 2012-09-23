@@ -1,0 +1,10 @@
+sdesc: "Miscellaneous modules used by Logilab projects"
+ldesc: "A collection of low-level Python packages and modules, designed to
+handle command line options and configuration files, write interactive
+command line tools, manipulate files and character strings, interface
+to OmniORB, generate SQL queries, run unit tests, manipulate tree
+structures, access RDBMS (currently postgreSQL, MySQL and sqlite),
+generate text and HTML reports etc."
+category: Python
+requires: python
+
