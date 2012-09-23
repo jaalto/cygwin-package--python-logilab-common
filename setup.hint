@@ -7,4 +7,3 @@ structures, access RDBMS (currently postgreSQL, MySQL and sqlite),
 generate text and HTML reports etc."
 category: Python
 requires: python
-
