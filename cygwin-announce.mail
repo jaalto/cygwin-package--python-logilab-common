@@ -5,7 +5,7 @@ Subject: New package: python-logilab-common 0.58.0-1 -- Miscellaneous modules us
 PACKAGE DESCRIPTION
 ===================
 
-Homepage:
+Homepage: http://www.logilab.org/project/logilab-common
 License : LGPL-2.1+
 
 A collection of low-level Python packages and modules, designed to
@@ -18,7 +18,7 @@ generate text and HTML reports etc.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-None.
+See changes at http://hg.logilab.org/logilab/common/
 
 INSTALL OR UPGRADE NOTES
 ========================
