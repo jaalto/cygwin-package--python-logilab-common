@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: New package: python-logilab-common 0.58.0-1 -- Miscellaneous modules used by Logilab projects
+Subject: New package: python-logilab-common 0.58.0-2 -- Miscellaneous modules used by Logilab projects
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -18,7 +18,8 @@ generate text and HTML reports etc.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-See changes at http://hg.logilab.org/logilab/common/
+- Built for Python 2.7
+- See changes at http://hg.logilab.org/logilab/common/
 
 INSTALL OR UPGRADE NOTES
 ========================
