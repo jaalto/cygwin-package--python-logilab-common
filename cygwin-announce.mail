@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: updated: python-logilab-common 0.62.0-1 -- Miscellaneous modules used by Logilab projects
+Subject: Updated: python-logilab-common 1.2.0-1 -- Miscellaneous modules used by Logilab projects
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -18,8 +18,7 @@ generate text and HTML reports etc.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-- Built for Python 2.7
-- See changes at http://hg.logilab.org/logilab/common/
+See changes at http://hg.logilab.org/logilab/common/
 
 INSTALL OR UPGRADE NOTES
 ========================
