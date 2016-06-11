@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Miscellaneous modules used by Logilab projects"
 ldesc: "A collection of low-level Python packages and modules, designed to
 handle command line options and configuration files, write interactive
