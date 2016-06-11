@@ -12,3 +12,5 @@
 
 # Generated file
 --exclude=__init__.py
+
+--exclude=SOURCES.txt
